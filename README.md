@@ -26,39 +26,39 @@
 
 ###Immediately-Invoked Function Expressions (IIFE)
 
-###JavaScripts Prototype
+### JavaScripts Prototype
 
-###User defined Callback Functions
+### User defined Callback Functions
 
-###Explain the methods map, filter and reduce
+### Explain the methods map, filter and reduce
 
-###Provide examples of user defined reusable modules implemented in Node.js
-
-
-##ES6-7 and TypeScript
-
-###Provide examples and explain the es2015 features: let, arrow functions, this, rest parameters, de-structuring assignments, maps/sets etc.
-
-###Explain and demonstrate how es2015 supports modules (import and export) similar to what is offered by NodeJS.
-
-###Provide an example of ES6 inheritance and reflect over the differences between Inheritance in Java and in ES6.
-
-###Provide examples with es6, running in a browser, using Babel and Webpack
-
-###Provide an number of examples to demonstrate the benefits of using TypeScript, including, types, interfaces, classes and generics
+### Provide examples of user defined reusable modules implemented in Node.js
 
 
-##Callbacks, Promises and async/await
+## ES6-7 and TypeScript
 
-##Explain about promises in ES-6 including, the problems they solve, a quick explanation of the Promise API and:
+### Provide examples and explain the es2015 features: let, arrow functions, this, rest parameters, de-structuring assignments, maps/sets etc.
 
-###Example(s) that demonstrate how to avoid the callback hell  (“Pyramid of Doom")
+### Explain and demonstrate how es2015 supports modules (import and export) similar to what is offered by NodeJS.
 
-###Example(s) that demonstrate how to execute asynchronous code in serial or parallel
+### Provide an example of ES6 inheritance and reflect over the differences between Inheritance in Java and in ES6.
 
-###Example(s) that demonstrate how to implement our own promise-solutions.
+### Provide examples with es6, running in a browser, using Babel and Webpack
 
-###Example(s) that demonstrate error handling with promises
+### Provide an number of examples to demonstrate the benefits of using TypeScript, including, types, interfaces, classes and generics
+
+
+## Callbacks, Promises and async/await
+
+## Explain about promises in ES-6 including, the problems they solve, a quick explanation of the Promise API and:
+
+### Example(s) that demonstrate how to avoid the callback hell  (“Pyramid of Doom")
+
+### Example(s) that demonstrate how to execute asynchronous code in serial or parallel
+
+### Example(s) that demonstrate how to implement our own promise-solutions.
+
+### Example(s) that demonstrate error handling with promises
 
 Explain about JavaScripts async/await, how it relates to promises and reasons to use it compared to the plain promise API.
 
