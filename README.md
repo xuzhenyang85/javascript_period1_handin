@@ -1,4 +1,4 @@
-# javascript_period1_handin
+# javascript_period1_handin - Xu Zhen Yang
 
 ## Explain and Reflect:
 
