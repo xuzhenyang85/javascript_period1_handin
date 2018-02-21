@@ -4,6 +4,12 @@
 
 ### Explain differences between Java and JavaScript. You should include both topics related to the fact that Java is a compiled language and JavaScript a scripted language, and general differences in language features.
 
+Svar: Forskllen mellem Java og JavaScript:
+Java er en OOP programming sprog hvor JavaScript er en OOP scripting sprog.
+Java opretter applikationer som kÃ¸rer i en virtuel maskine eller browser hvor JavaScript kode er kÃ¸re kun pÃ¥ en browser.
+Java kode har brug for kompilet hvor JavaScript kode er alle i tekster.
+De har brug for forskellen plug-ins.
+
 
 ### Explain the two strategies for improving JavaScript: ES6 (es2015) + ES7, versus Typescript. What does it require to use these technologies: In our backend with Node and in (many different) Browsers
 
