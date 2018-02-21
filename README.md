@@ -22,49 +22,49 @@ Q: Explain (some) of the purposes with the tools Babel and WebPack, using  examp
 Q: Explain the purpose of “use strict” and also Linters, exemplified with ESLint 
 
 
-## Explain using sufficient code examples the following features in JavaScript. 
+### Explain using sufficient code examples the following features in JavaScript. 
 
-### Variable/function-Hoisting
+Q: Variable/function-Hoisting
 
-### this in JavaScript and how it differs from what we know from Java/.net.
+Q: this in JavaScript and how it differs from what we know from Java/.net.
 
-### Function Closures and the JavaScript Module Pattern
+Q: Function Closures and the JavaScript Module Pattern
 
-### Immediately-Invoked Function Expressions (IIFE)
+Q: Immediately-Invoked Function Expressions (IIFE)
 
-### JavaScripts Prototype
+Q: JavaScripts Prototype
 
-### User defined Callback Functions
+Q: User defined Callback Functions
 
-### Explain the methods map, filter and reduce
+Q: Explain the methods map, filter and reduce
 
-### Provide examples of user defined reusable modules implemented in Node.js
-
-
-## ES6-7 and TypeScript
-
-### Provide examples and explain the es2015 features: let, arrow functions, this, rest parameters, de-structuring assignments, maps/sets etc.
-
-### Explain and demonstrate how es2015 supports modules (import and export) similar to what is offered by NodeJS.
-
-### Provide an example of ES6 inheritance and reflect over the differences between Inheritance in Java and in ES6.
-
-### Provide examples with es6, running in a browser, using Babel and Webpack
-
-### Provide an number of examples to demonstrate the benefits of using TypeScript, including, types, interfaces, classes and generics
+Q: Provide examples of user defined reusable modules implemented in Node.js
 
 
-## Callbacks, Promises and async/await
+### ES6-7 and TypeScript
 
-## Explain about promises in ES-6 including, the problems they solve, a quick explanation of the Promise API and:
+Q: Provide examples and explain the es2015 features: let, arrow functions, this, rest parameters, de-structuring assignments, maps/sets etc.
 
-### Example(s) that demonstrate how to avoid the callback hell  (“Pyramid of Doom")
+Q: Explain and demonstrate how es2015 supports modules (import and export) similar to what is offered by NodeJS.
 
-### Example(s) that demonstrate how to execute asynchronous code in serial or parallel
+Q: Provide an example of ES6 inheritance and reflect over the differences between Inheritance in Java and in ES6.
 
-### Example(s) that demonstrate how to implement our own promise-solutions.
+Q: Provide examples with es6, running in a browser, using Babel and Webpack
 
-### Example(s) that demonstrate error handling with promises
+Q: Provide an number of examples to demonstrate the benefits of using TypeScript, including, types, interfaces, classes and generics
+
+
+### Callbacks, Promises and async/await
+
+### Explain about promises in ES-6 including, the problems they solve, a quick explanation of the Promise API and:
+
+Q: Example(s) that demonstrate how to avoid the callback hell  (“Pyramid of Doom")
+
+Q: Example(s) that demonstrate how to execute asynchronous code in serial or parallel
+
+Q: Example(s) that demonstrate how to implement our own promise-solutions.
+
+Q: Example(s) that demonstrate error handling with promises
 
 Explain about JavaScripts async/await, how it relates to promises and reasons to use it compared to the plain promise API.
 
