@@ -74,6 +74,8 @@ Q: JavaScripts Prototype
 Q: User defined Callback Functions
 
 Q: Explain the methods map, filter and reduce
+map er en Array.prototype.map(), den tager imod et array og en function, og returnerer et nyt array med sammen størrelse af den originale array og dataene blev gjodt noget. 
+
 
 Q: Provide examples of user defined reusable modules implemented in Node.js
 
