@@ -1,4 +1,4 @@
-# javascript_period1_handin - Xu Zhen Yang
+# Javascript period 1 - Hand in
 
 ### Explain and Reflect:
 
@@ -15,21 +15,34 @@ De har brug for forskellen plug-ins.
 Q: Explain the two strategies for improving JavaScript: ES6 (es2015) + ES7, versus Typescript. What does it require to use these technologies: In our backend with Node and in (many different) Browsers
 
 Svar:
-ES6(ES2015): Promises kan være paralle, class(constructor)
-TypeScript: Promises kan være paralle, class(constructor)
+ES6(ES2015): evolution af JavaScript, ny features: arrow functions, promises kan være paralle, class, Inheritance, generators, kan være brugt i 'alle' browser via brug en transpiler, og næsten alle i Node.js via Babel.
+TypeScript: En gratis åben source sprog, udviklet af Microsoft, superset af JavasScript. Og optional static typing, mange af de features fra ES6 og ES7.
 ES7: Async og Await som er async. 
 
 Q: Explain generally about node.js, and when it “makes sense” and npm, and how it “fits” into the node echo system.
 Svar:
 Node er en åben source project designet til at hjælpe man skrive JavaScript program som snakker med netværker, file system eller andre I/O sources. 
 Det er non-blocking(callback) og letter at læse og forstå. 
+npm: at bruge npm og at tildele kode, styre dependencies i ens projekt. npm er standard pakke styring for Node.js.
+fits: require 
 
 Q: Explain about the Event Loop in Node.js
-
+Svar:
+Det er hvad der er tillade Node.js til perform non-blocking I/O opretationer. Når Node.js startet, den initializes den event loop. Og processen vil modtage input script, hvor det er async API kalder. 
+Timers - I/O callbacks - idle, prepare - poll (incoming connections, data) - check - close callback, hver bokse vil være ligesom en fase af den event loop, hver fase har en FIFO(first in first out) køen. 
 
 Q: Explain (some) of the purposes with the tools Babel and WebPack, using  examples from the exercises
+Svar:
+Babel transpiler ES2015(ES6) til ES5
+WebPack er en static modul bundler for JavaScript applikation. Når den startet vil den bygge en dependency graph som inkluderer applikations behov, og pakkerne af disse moduler til en eller flere bundles. 
+Hoved koncept (propeties)
+entry: der begynder dependency graph bliver bygget. 
+output: skal fortælle bundles hvilken mappe og hvad name.
+loaders: give rettigheder webpack til process mere end kun JavaScript filer(webpack forstår kun js), evne til at konvertere filer til gydig moduler så webpack kan køre. f.eks. txt
+plugins interface: via at bruge require(), kan give en stor mændge af plugins. powerful 
 
 Q: Explain the purpose of “use strict” and also Linters, exemplified with ESLint 
+
 
 
 ### Explain using sufficient code examples the following features in JavaScript. 
