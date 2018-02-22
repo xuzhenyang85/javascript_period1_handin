@@ -4,18 +4,28 @@
 
 Q: Explain differences between Java and JavaScript. You should include both topics related to the fact that Java is a compiled language and JavaScript a scripted language, and general differences in language features.
 
-Svar: Forskllen mellem Java og JavaScript:
+Svar: 
+Forskllen mellem Java og JavaScript:
 Java er en OOP programming sprog hvor JavaScript er en OOP scripting sprog.
-Java opretter applikationer som kÃ¸rer i en virtuel maskine eller browser hvor JavaScript kode er kÃ¸re kun pÃ¥ en browser.
+Java opretter applikationer som kører i en virtuel maskine eller browser hvor JavaScript kode er køre kun på en browser.
 Java kode har brug for kompilet hvor JavaScript kode er alle i tekster.
 De har brug for forskellen plug-ins.
 
 
 Q: Explain the two strategies for improving JavaScript: ES6 (es2015) + ES7, versus Typescript. What does it require to use these technologies: In our backend with Node and in (many different) Browsers
 
+Svar:
+ES6(ES2015): Promises kan være paralle, class(constructor)
+TypeScript: Promises kan være paralle, class(constructor)
+ES7: Async og Await som er async. 
+
 Q: Explain generally about node.js, and when it “makes sense” and npm, and how it “fits” into the node echo system.
+Svar:
+Node er en åben source project designet til at hjælpe man skrive JavaScript program som snakker med netværker, file system eller andre I/O sources. 
+Det er non-blocking(callback) og letter at læse og forstå. 
 
 Q: Explain about the Event Loop in Node.js
+
 
 Q: Explain (some) of the purposes with the tools Babel and WebPack, using  examples from the exercises
 
