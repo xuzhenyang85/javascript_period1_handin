@@ -16,7 +16,7 @@ Q: Explain the two strategies for improving JavaScript: ES6 (es2015) + ES7, vers
 
 Svar:
 ES6(ES2015): evolution af JavaScript, ny features: arrow functions, promises kan være paralle, class, Inheritance, generators, kan være brugt i 'alle' browser via brug en transpiler, og næsten alle i Node.js via Babel.
-TypeScript: En gratis åben source sprog, udviklet af Microsoft, superset af JavasScript. Og optional static typing, mange af de features fra ES6 og ES7.
+TypeScript: En gratis åben source(programming) sprog, udviklet af Microsoft, superset af JavasScript, dvs. alt du kan finde i JavaScript er TypeScript. Og optional static typing, mange af de features fra ES6 og ES7. Det bliver transpiler til maskine sprog, og det er JavaScript.
 ES7: Async og Await som er async. 
 
 Q: Explain generally about node.js, and when it “makes sense” and npm, and how it “fits” into the node echo system.
@@ -48,10 +48,20 @@ Eksempel:
 "use strict";
 x = 3.14;       // This will cause an error because x is not declared
 
+ESLinkt:
+"use strict";
+
+// strict mode
+
+function foo() {
+    // strict mode
+}
+
 
 ### Explain using sufficient code examples the following features in JavaScript. 
 
 Q: Variable/function-Hoisting
+
 
 Q: this in JavaScript and how it differs from what we know from Java/.net.
 
