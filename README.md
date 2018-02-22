@@ -42,7 +42,11 @@ loaders: give rettigheder webpack til process mere end kun JavaScript filer(webp
 plugins interface: via at bruge require(), kan give en stor mændge af plugins. powerful 
 
 Q: Explain the purpose of “use strict” and also Linters, exemplified with ESLint 
-
+Svar:
+Definetion af JavaScript kode skal være gemmenføres i "streng tilstand". Det gør det letter at skrive "sikker" JavaScript
+Eksempel:
+"use strict";
+x = 3.14;       // This will cause an error because x is not declared
 
 
 ### Explain using sufficient code examples the following features in JavaScript. 
