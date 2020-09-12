@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/xuzhenyang85/javascript_period1_handin#readme",
   "dependencies": {
-    "node-fetch": "^2.0.0",
+    "node-fetch": "^2.6.1",
     "performance-now": "^2.1.0"
   }
 }
